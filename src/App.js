@@ -1,11 +1,10 @@
-import NameFilter from "./Exercises/01. Filter/NameFilter";
-import Counter from "./Exercises/01. Filter/02. Counter/Counter";
+import Counter from "./Projects/02. Counter/Counter";
+import NameFilter from "./Projects/01. Filter/NameFilter";
 
 function App() {
   return (
     <div className="App">
-      {/* <NameFilter />   exercise 1. Name Filter */}
-      <Counter />
+      <NameFilter />
     </div>
   );
 }
