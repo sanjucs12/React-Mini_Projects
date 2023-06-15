@@ -1,4 +1,7 @@
 https://contactmentor.com/react-js-practice-exercises-solution/
 
-1. Filter : implement use of array.filter() method to filter the names as we type in searcg bar.
-2. Counter : use of useState to set the count
+All the projects are in a src folder-->Projects
+
+1. Filter---------------> https://names-filter-react-app.netlify.app/
+2. Counter--------------> https://counter-simple-react-app.netlify.app/
+3. Birthday List--------> https://birthday-list-react-app.netlify.app/
