@@ -3,6 +3,7 @@ import NameFilter from "./Projects/01. Filter/NameFilter";
 import Birthday from "./Projects/03. Birthdays list/Birthday";
 import ToursApp from "./Projects/04. Tours/ToursApp";
 import ReviewsApp from "./Projects/05. Reviews/ReviewsApp";
+import QuestionsApp from "./Projects/06. Accordion/QuestionsApp";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <Counter /> */}
       {/* <Birthday /> */}
       {/* <ToursApp /> */}
-      <ReviewsApp />
+      {/* <ReviewsApp /> */}
+      <QuestionsApp />
     </div>
   );
 }

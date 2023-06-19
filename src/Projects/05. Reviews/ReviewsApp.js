@@ -1,5 +1,6 @@
 import React from "react";
 import Review from "./Review";
+import "./Styles.css";
 
 const ReviewsApp = () => {
   return (
