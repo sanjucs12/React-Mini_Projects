@@ -5,6 +5,7 @@ import ToursApp from "./Projects/04. Tours/ToursApp";
 import ReviewsApp from "./Projects/05. Reviews/ReviewsApp";
 import QuestionsApp from "./Projects/06. Accordion/QuestionsApp";
 import MenuApp from "./Projects/07.Menu project/MenuApp";
+import TabsApp from "./Projects/08. Experience -Tabs project/TabsApp";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
       {/* <ToursApp /> */}
       {/* <ReviewsApp /> */}
       {/* <QuestionsApp /> */}
-      <MenuApp />
+      {/* <MenuApp /> */}
+      <TabsApp />
     </div>
   );
 }
